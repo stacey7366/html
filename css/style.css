@@ -1,0 +1,36 @@
+/* h3{
+    background-color:steelblue;
+    color: white;           
+  } */
+
+
+body{
+    background-color:#d1e2f5;
+    font-family:'Courier New', Courier, monospace;
+}
+
+thead{
+    background-color:#112d4e;
+    font-size: 20px;
+    text-align: left;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.style1{
+
+    background-color:rgb(136, 70, 180);
+    color: white;  
+}
+
+.img-style1{
+
+    background-color: antiquewhite;
+    border: black;
+    padding:5px;
+
+}
+#main{
+    background-color:#78a5f8;
+    color: #F9f7f7;
+    }
+
